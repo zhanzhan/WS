@@ -1,3 +1,6 @@
 https://arch.stoneeagle.com/ARCH/ARCHService/MenuIntegration.svc?singlewsdl
 
 https://www.w3schools.com/xml/tempconvert.asmx?WSDL
+
+WSDL viewer:
+http://tomi.vanek.sk/
